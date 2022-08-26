@@ -11,7 +11,7 @@ h2 {
   position: absolute;
   top: 0;
   left: 0;
-  background-color: rgb(236, 139, 184);
+  background-color: rgb(238, 113, 172);
   width: 100%;
   height: 45px;
 }
@@ -33,7 +33,7 @@ float: left;
  }
  li a:hover{
    background:rgb(185, 66, 122);
-   color: black;
+   color: rgb(255, 255, 255);
  }
  #YuriDeYuriOnIce{
    width: 20%;
@@ -56,3 +56,19 @@ float: left;
   display: flex;
   justify-content: end;
  }
+
+ .caixayuri{
+  position: absolute;
+  top: 5px;
+  left: 7%;
+  width: 90%;
+  height: 160px;
+  background:0;
+  margin: 20px;
+  border-color: 0;
+  border-width: 20px;
+  border-style: 0;
+  padding: 20px;
+ display: flex;
+ justify-content: end;
+}
